@@ -1,7 +1,14 @@
 ### Hi there 👋
-- 🎓 I have a degree in Computer Engineering at Universidade de Trás-os-Montes e Alto Douro (UTAD)
-- 👨🏻‍💻 I'm currently learning a little more about Java and Javascript.
+- 🎓 I have a degree in **[Informatics Engineering](https://www.utad.pt/estudar/en/cursos/informatics-engineering/)** at Universidade de Trás-os-Montes e Alto Douro (**[UTAD](https://www.utad.pt/)**)
+  
+- 👨🏻‍💻 I'm currently learning a little more about **Java and Javascript.**
+
+- 📍 I'm from **Monção, Portugal**
+
 - 🎺 I also am an musician with several collaborations in several projects!
+
+- ⚙️ My Last project **[Final-Project-Bsc](https://github.com/Andre-Pereira01/Final-Project-Bsc))**
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Pereira01&layout=compact&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre-Pereira01&show_icons=true&theme=transparent)
