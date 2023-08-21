@@ -2,7 +2,7 @@
 
 - 🎓 I have a degree in **[Informatics Engineering](https://www.utad.pt/estudar/en/cursos/informatics-engineering/)** at Universidade de Trás-os-Montes e Alto Douro (**[UTAD](https://www.utad.pt/)**)
   
-- 👨🏻‍💻 I'm currently learning a little more about **Java and Javascript**.
+- 👨🏻‍💻 I'm currently learning a little more about **Javascript**.
 
 - 📍 I'm from **Monção, Portugal**.
 
