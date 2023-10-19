@@ -1,9 +1,10 @@
 <h1 align="left">Hi there 👋, i'm André Pereira</h1>
-- 🎓 I am currently a master's student in **[Informatics Engineering and Web Technologies](https://guiadoscursos.uab.pt/cursos/mestrado-em-engenharia-informatica-e-tecnologia-web/?lang=en)** at Universidade Aberta (**[UAb](https://portal.uab.pt/?lang=en)**)
+
+- 🎓 I am currently a master's student in **[Informatics Engineering and Web Technologies](https://guiadoscursos.uab.pt/cursos/mestrado-em-engenharia-informatica-e-tecnologia-web/?lang=en/)** at Universidade Aberta(**[UAb](https://portal.uab.pt/?lang=en)**)
 
 - 🎓 I have a degree in **[Informatics Engineering](https://www.utad.pt/estudar/en/cursos/informatics-engineering/)** at Universidade de Trás-os-Montes e Alto Douro (**[UTAD](https://www.utad.pt/)**)
   
-- 👨🏻‍💻 I'm currently learning a little more about **Javascript** , **Phyton** and **Javas**.
+- 👨🏻‍💻 I'm currently learning a little more about **Javascript** , **Phyton** and **Java**.
 
 - 📍 I'm from **Monção, Portugal**.
 
