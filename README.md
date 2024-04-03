@@ -8,7 +8,7 @@
 
 - 📍 I'm from **Monção, Portugal**.
 
-- ⚙️ My Last project **[Final-Project-Bsc](https://github.com/Andre-Pereira01/Final-Project-Bsc)**.
+- ⚙️ My Last project **[PWA-Projeto-Final](https://github.com/Andre-Pereira01/PWA-Projeto-Final)**.
 
 - 🎺 I also am an musician with several collaborations in several projects!
 
