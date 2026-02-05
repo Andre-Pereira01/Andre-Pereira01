@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&random=false&width=800&lines=Building+robust+production-critical+systems;Concurrent+and+Parallel+Programming+Expert;Desktop+and+Backend+Systems+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&random=false&width=800&lines=Building+robust-critical+systems;Concurrent+and+Parallel+Programming+Expert;Desktop+and+Backend+Systems+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -89,7 +89,7 @@ const andre = {
 + 🖥️ Full-stack desktop applications (WPF) with real-time state visualization
 + 📡 Integrated multiple communication protocols (CAN/CAN FD, LIN, TCP/IP, Serial)
 + 📋 Structured logging, traceability, and automated reporting
-+ 💪 Delivered robust software for critical production systems
++ 💪 Delivered robust software for critical systems
 ```
 
 ---
