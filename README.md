@@ -1,17 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=André%20Pereira&fontSize=42&fontAlignY=32&desc=Software%20Engineer%20|%20Platform%20%26%20Full-Stack%20Developer&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Andre%20Pereira&fontSize=42&fontAlignY=32&desc=Software%20Engineer%20|%20Platform%20and%20Full-Stack%20Developer&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&random=false&width=800&lines=Building+robust+production-critical+systems;Concurrent+%26+Parallel+Programming+Expert;Desktop+%26+Backend+Systems+Developer;Industrial+Automation+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&random=false&width=800&lines=Building+robust+production-critical+systems;Concurrent+and+Parallel+Programming+Expert;Desktop+and+Backend+Systems+Developer;Industrial+Automation+Specialist)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-
 ```typescript
 const andre = {
   location: "Monção, Portugal 🇵🇹",
@@ -59,7 +58,7 @@ const andre = {
       <br/>Java
     </td>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/374167/wpf.svg" width="48" height="48" alt="WPF" />
+      <img src="https://westahn.com/wp-content/uploads/2024/02/WPF-1.webp" width="48" height="48" alt="WPF" style="object-fit: contain;" />
       <br/>WPF
     </td>
   </tr>
@@ -83,7 +82,6 @@ const andre = {
 ---
 
 ## 🏆 Professional Highlights
-
 ```diff
 + 🎯 Core contributor to platform development with direct technical proposals
 + 🔧 Developed deterministic, state-based execution engines
@@ -99,14 +97,17 @@ const andre = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre-Pereira01&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Pereira01&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
-</div>
+  
+<a href="https://github.com/Andre-Pereira01">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Andre-Pereira01&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Andre-Pereira01&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
+</a>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andre-Pereira01&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" />
-</div>
+<br/>
 
+<img src="https://streak-stats.demolab.com/?user=Andre-Pereira01&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" />
+
+</div>
 ---
 
 ## 🎵 Beyond Code
@@ -125,16 +126,6 @@ const andre = {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrepereira000)
 [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:andrepereira000@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andre-Pereira01)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![PWA-Projeto-Final](https://github-readme-stats.vercel.app/api/pin/?username=Andre-Pereira01&repo=PWA-Projeto-Final&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Andre-Pereira01/PWA-Projeto-Final)
 
 </div>
 
