@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&random=false&width=800&lines=Building+robust+production-critical+systems;Concurrent+and+Parallel+Programming+Expert;Desktop+and+Backend+Systems+Developer;Industrial+Automation+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&random=false&width=800&lines=Building+robust+production-critical+systems;Concurrent+and+Parallel+Programming+Expert;Desktop+and+Backend+Systems+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,7 +19,7 @@ const andre = {
     master: "Computer Engineering and Web Technologies @ UAb (2023-2026)",
     bachelor: "Computer Engineering @ UTAD (2020-2023)"
   },
-  currentlyLearning: ["Advanced C# Patterns", "Real-Time Systems", "Industrial IoT"],
+  currentlyLearning: ["Advanced C# Patterns", "Real-Time Systems", "Distributed Systems"],
   passions: ["Software Architecture", "Concurrent Programming", "Music 🎺"],
   funFact: "I build systems where downtime = 💰 loss, so reliability is my obsession!"
 };
@@ -70,10 +70,10 @@ const andre = {
 
 <img src="https://img.shields.io/badge/🔄_Concurrent_Programming-3B82F6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/⚡_Parallel_Processing-10B981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🏭_Industrial_Automation-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏗️_Complex_Systems-F59E0B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🖥️_Desktop_Apps-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🔧_Backend_Systems-EF4444?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📡_CAN_•_TCP/IP-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📡_Network_Protocols-06B6D4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🎯_State_Machines-EC4899?style=for-the-badge" />
 <img src="https://img.shields.io/badge/📊_Real_Time_UI-6366F1?style=for-the-badge" />
 
@@ -133,10 +133,10 @@ const andre = {
 
 ## 💡 Current Focus
 
-- 🔭 Working on **industrial automation platforms** with real-time requirements
+- 🔭 Working on **platform development** with real-time execution requirements
 - 🌱 Deepening expertise in **concurrent programming patterns** and **system architecture**
 - 👯 Open to collaborate on **innovative system-level projects**
-- 💬 Ask me about **C#, .NET, WPF, Parallel Programming, Industrial Protocols**
+- 💬 Ask me about **C#, .NET, WPF, Parallel Programming, Protocol Integration**
 
 ---
 
